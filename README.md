@@ -21,3 +21,8 @@ to the submission machine and run it there.
 If you want to test your new Docker image on your machine, assuming you have created a 
 BETTER DRY RUN test environment, edit run_docker_image.sh to use that environment, to have
 the right Docker Hub user name and the right query file to use. Then run run_docker_image.sh. 
+All that will do is copy the query file(s) to the environment's query file directory.
+
+A better test is to run your Docker image in your local instance of TasksRunner. To do so, 
+just edit TaskRunner's run_settings_DRY_RUN.env file to specify your Docker image in 
+the requestLevelQueryFormulatorDockerImage setting and run TasksRunner.
