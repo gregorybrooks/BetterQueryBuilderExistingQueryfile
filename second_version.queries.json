@@ -1,0 +1,172 @@
+{
+    "queries": [
+        {
+            "number": "DR-T1-r1",
+            "text": "#combine:( #combine (#sdm(year pyongyang nuclear tests happen) #sdm(type missile north korea use weapons test) #sdm(n korea start missile program) #sdm(north korean sanctions) #sdm(north korea start testing weapons) ) #combine (#sdm(north korea test rockets) #sdm(north korean missile tests used) #sdm(korea first nuclear test take place) #sdm(year north korea missile tests) #sdm(north korea) ) #combine (#sdm(nkorean nuclear tests) #sdm(many nuclear tests north korea) #sdm(kim jong un stop nuclear testing) #sdm(korean leader planning stop nuclear testing) #sdm(north korea abandon nuclear tests) ) #combine (#sdm(would north korea nuclear missile tests) #sdm(many icbm kim jong un tested far) #sdm(north korea stopped testing icbm) #sdm(many launches north korea icbm) #sdm(north korea testing nuclear missiles) ) #combine (#sdm(kim jng un claiming) #sdm(north korea losing) #sdm(north korea surrender sanctions) #sdm(kim jng un gave) #sdm(kim jong un give nuclear testing) ) #combine (#sdm(kim jong rui) #sdm(panda diplomat) #sdm(ankit panda) ) )"
+        },
+        {
+            "number": "DR-T1-r2",
+            "text": "#combine:( #combine (#sdm(trump said north korea) #sdm(happened north korea) #sdm(trump say happen nuclear bomb korea) #sdm(trump say north korea hit us) #sdm(trump really want get nuclear bomb) ) #combine (#sdm(icbm test north korea) #sdm(far icbms reach us) #sdm(year north korea test bomb) #sdm(trump announce north korea going launch icbm) #sdm(north korea) ) #combine (#sdm(china fail support north korea) #sdm(china neocon) #sdm(china position korean peninsula) #sdm(china position north korea) #sdm(china foreign ministry) ) )"
+        },
+        {
+            "number": "DR-T1-r3",
+            "text": "#combine:( #combine (#sdm(trump shake us) #sdm(foreign policy trump trying avoid) #sdm(president elect approach china) #sdm(president president trump take office) #sdm(leader north korea) ) #combine (#sdm(north korea launch missile) #sdm(north korea test nuclear) #sdm(north korea weapons) #sdm(north korea test missiles) ) #combine (#sdm(moved us embassy jerusalem) #sdm(trump put embassy israel tel aviv) #sdm(moved teh aviv jerusalem) #sdm(would trump move embassy jerusalem) #sdm(us embassy tel aviv) ) #combine (#sdm(trump talk human rights wiki) #sdm(trump human rights) #sdm(problem trump handling human rights) #sdm(trump going talk human rights) #sdm(human rights foreign policy issue) ) #combine (#sdm(sanctions necessary n korea) #sdm(north korea launch bomb) #sdm(north korea missile test results) #sdm(sanctions likely imposed united states) #sdm(sanctions north korea) ) #combine (#sdm(north korea conduct first nuclear test) #sdm(north korea first missile test) #sdm(korean nation conducted first nuclear test) #sdm(north korea start putting weapons use) #sdm(north korea nuclear tests) ) )"
+        },
+        {
+            "number": "DR-T1-r4",
+            "text": "#combine:( #combine (#sdm(many nuclear tests north korea conducted) #sdm(many nuclear tests north korea) #sdm(north korea stop nuclear testing) #sdm(nuclear testing north korea) #sdm(test north korea conduct) ) #combine (#sdm(north korea ban nuclear test) #sdm(north korea testing ccbm) #sdm(many icbm launchers north korea use) #sdm(north korea testing icbm) #sdm(nuclear test ban cover north korea) ) #combine (#sdm(result north korea nuclear ban) #sdm(north korea recent reaction nuclear test) #sdm(kim jng un imposed sanctions north korea) #sdm(north korea give nuclear tests) #sdm(north korea give nuclear deal) ) #combine (#sdm(trump say kim jim big progress) #sdm(ankit panda) ) )"
+        },
+        {
+            "number": "DR-T1-r5",
+            "text": "#combine:( #combine (#sdm(trump defence secretary japan) #sdm(defence secretary north korea) #sdm(us president warned korea nuclear warfare) #sdm(defence secretary korea) #sdm(us secretary defence) ) #combine (#sdm(north korea launch icbm missiles) #sdm(range north korean icbm missile) #sdm(us korean leader said n korea developing icbm) #sdm(north korea us) #sdm(korean leader said icbm would happen) ) #combine (#sdm(tension china north increasing) #sdm(chinas position north korea) #sdm(tensions china north korea increasing) #sdm(north korea taad) #sdm(china want halt thaad) ) )"
+        },
+        {
+            "number": "DR-T1-r6",
+            "text": "#combine:( #combine (#sdm(year north korea test nuclear bombs) #sdm(many nk nuclear tests) #sdm(nv stopped nuclear testing) #sdm(north korea stop nuclear tests) #sdm(current atomic power north korea) ) #combine (#sdm(kim jong un break nuclear ban) #sdm(kim jong un declare nuclear test success) #sdm(north korea use icbms) #sdm(north korea test nuclear missiles) #sdm(kim jong un ban icbm) ) #combine (#sdm(north korea president) #sdm(kim jng un plan summit) #sdm(n koreans give nuclear tests) #sdm(north korea give nuclear test) #sdm(kim jng un give) ) #combine (#sdm(trump recognize kim goals) #sdm(ankit panda work) #sdm(ankit panda) ) )"
+        },
+        {
+            "number": "DR-T1-r7",
+            "text": "#combine:( #combine (#sdm(north korea stopped nuclear tests) #sdm(north korea tested) #sdm(north korea halts nuclear testing) #sdm(type device north korea tested) #sdm(kind nuclear missiles north korea testing) ) #combine (#sdm(north korea stop testing nuclear missiles) #sdm(kim jong un icbms) #sdm(north korea test nuclear missiles) #sdm(many nuclear tests north korea) ) #combine (#sdm(kim jng un give nuclear test) #sdm(north korea able nuclear bomb) #sdm(kim jng un give nuclear ban) #sdm(north korea summit important) #sdm(north korea objective) ) #combine (#sdm(trump goal world) #sdm(trump ultimate goal) #sdm(ankit panda) ) #combine (#sdm(japan first get nuclear missile test) #sdm(name missile pyongyang uses test atomic bomb) #sdm(japan located nuclear pyongyang) #sdm(north atomic bomb) #sdm(north korea start testing nuclear technology) ) #combine (#sdm(north korea begin testing nuclear technology) #sdm(north korea biggest nuclear test) #sdm(north korea first test) #sdm(us sanctions north korea) #sdm(north korea start implementing nuclear missile defenses) ) #combine (#sdm(significance nuclear weapons) #sdm(nuclear bomb world) #sdm(kim want nuclear bomb) #sdm(said nuclear weapons guarantee descendants live dignified life whole world) #sdm(purpose use nuclear bombs) ) )"
+        },
+        {
+            "number": "DR-T2-r1",
+            "text": "#combine:( #combine (#sdm(percentage time iron dome fail) #sdm(scientist made iron dome) #sdm(percentage missiles fired iron dome) #sdm(designed iron dome) #sdm(many times would iron dome successfully detonate rocket) ) #combine (#sdm(many kills iron dome) #sdm(scientist made iron dome) #sdm(created iron dome) #sdm(iron dome target) #sdm(iron dome used) ) #combine (#sdm(said everybody got) #sdm(anti missile system outlined) #sdm(effective israel missile system) #sdm(israel missile system definition) #sdm(us president involved antimissile system) ) #combine (#sdm(rocket launch located safaq) #sdm(many israeli air strikes gaza today) #sdm(ceasefire gaza start) #sdm(israel trying end truce) #sdm(responsible israel strike afghanistan) ) )"
+        },
+        {
+            "number": "DR-T2-r2",
+            "text": "#combine:( #combine (#sdm(missiles launched israel) #sdm(israeli missiles land) #sdm(iron dome located) #sdm(iron dome located negev region) ) #combine (#sdm(rocket attack petrol station tel aviv) #sdm(many died israel) #sdm(hit ashdod petrol station) #sdm(many people died israel since operation protective edge started) #sdm(israeli rocket killed palestinians rakah) ) #combine (#sdm(condemned strike israel) #sdm(israeli air strike killed women men) #sdm(president israel) #sdm(condemned israel use military force) #sdm(condemned israel attack) ) #combine (#sdm(subject line israel gaza) #sdm(subject line israel embassy) #sdm(experience israel) #sdm(subject email message haveyoursay) #sdm(get say) ) )"
+        },
+        {
+            "number": "DR-T2-r3",
+            "text": "#combine:( #combine (#sdm(iron dome first designed) #sdm(often see iron dome) #sdm(iron dome fail) #sdm(often iron dome succeed) #sdm(long take iron dome detonate) ) #combine (#sdm(made iron dome) #sdm(iron dome fail) #sdm(iron dome good weapon israel) #sdm(iron dome really hit targets) #sdm(antimissile scientist) ) #combine (#sdm(israel anti missile system) #sdm(antimissile system israel) #sdm(importance israel antimissile systems) #sdm(obama administration start testing antimissile system) #sdm(president talks israel antimissile system) ) )"
+        },
+        {
+            "number": "DR-T2-r4",
+            "text": "#combine:( #combine (#sdm(iron dome bad idea) #sdm(percent time iron dome succeed) #sdm(percentage times iron dome successful) #sdm(many times successful detonate american antimissile) #sdm(inventor iron dome) ) #combine (#sdm(said iron dome enemy) #sdm(responsible iron dome) #sdm(scientist studies iron dome rockets) #sdm(invented iron dome missile) #sdm(iron dome fail) ) #combine (#sdm(israel anti missile system created) #sdm(started anti missile system) #sdm(american israel public affairs committee approve israel missiles) #sdm(said everybody spotted) #sdm(vice president israel) ) )"
+        },
+        {
+            "number": "DR-T2-r5",
+            "text": "#combine:( #combine (#sdm(iron dome begin) #sdm(iron dome) #sdm(many rockets fired iron dome) ) #combine (#sdm(iron dome system works) #sdm(iron dome used israel) #sdm(battery designed intercept missiles) #sdm(much charge iron dome) #sdm(iron dome first installed) ) )"
+        },
+        {
+            "number": "DR-T2-r6",
+            "text": "#combine:( #combine (#sdm(iron dome israel) #sdm(iron dome) #sdm(iron dome developed) #sdm(irondome) #sdm(iron dome used) ) #combine (#sdm(iron dome built) #sdm(rockets fired iron dome) #sdm(many times iron dome fired) #sdm(iron dome) #sdm(type missile fired iron dome) ) )"
+        },
+        {
+            "number": "DR-T2-r7",
+            "text": "#combine:( #combine (#sdm(main leader hamas) #sdm(many died israel rockets) #sdm(fired rockets israel) #sdm(many israeli soldiers died last month) #sdm(israel rockets) ) )"
+        },
+        {
+            "number": "DR-T3-r1",
+            "text": "#combine:( #combine (#sdm(us oil) #sdm(owns nigeria oil) #sdm(china oil supply) #sdm(china import oil) #sdm(country biggest importer oil) ) #combine (#sdm(china wants africa oil) #sdm(china develop nigeria) #sdm(china selling africa) #sdm(companies partnering china african market) #sdm(countries china trying develop) ) #combine (#sdm(china role international community) #sdm(china important energy importing partner) #sdm(china good partner nigeria) #sdm(kind business nigeria china) #sdm(china energy partner) ) )"
+        },
+        {
+            "number": "DR-T3-r2",
+            "text": "#combine:( #combine (#sdm(cost borrowing money nigeria) #sdm(nigeria budget deficit) #sdm(nigeria running money energy) #sdm(current budget deficit nigeria) #sdm(nigeria crisis) ) #combine (#sdm(opec nations nigeria belong) #sdm(average production cost nigeria) #sdm(nigeria opec country) #sdm(nigerian production cost) #sdm(average cost oil production nigeria) ) )"
+        },
+        {
+            "number": "DR-T3-r3",
+            "text": "#combine:( #combine (#sdm(following first trip china took africa president) #sdm(xi jinping ethiopia) #sdm(china first leader) #sdm(chinese trade africa) #sdm(continent china trading) ) #combine (#sdm(kind economic activity china africa) #sdm(china influence africa) #sdm(china business partner africa) #sdm(china economic impact africa) #sdm(china shifted africa) ) )"
+        },
+        {
+            "number": "DR-T3-r4",
+            "text": "#combine:( #combine (#sdm(project china finance) #sdm(started nigeria steel mill) #sdm(energy projects completed) #sdm(contractor nigeria hydropower power station) #sdm(started nigeria hydroelectric project) ) )"
+        },
+        {
+            "number": "DR-T3-r5",
+            "text": "#combine:( #combine (#sdm(chinese developing nigeria hydropower stations) #sdm(kind infrastructure nigeria building) #sdm(nigeria main source power) #sdm(chinese investors want build power plants nigeria) #sdm(china use nigeria electricity) ) )"
+        },
+        {
+            "number": "DR-T3-r6",
+            "text": "#combine:( #combine (#sdm(continent china) #sdm(kind energy china use africa) #sdm(countries china import) #sdm(chinese oil company) #sdm(china import oil africa) ) #combine (#sdm(owns angola oil) #sdm(china vs china) #sdm(china oil company) #sdm(china supplier angola oil) #sdm(china armament company) ) #combine (#sdm(china partners) #sdm(china important partner oil industry) #sdm(nations symbiotic relationship china) #sdm(china) #sdm(rely energy) ) )"
+        },
+        {
+            "number": "DR-T4-r1",
+            "text": "#combine:( #combine (#sdm(charged contamination flint michigan) #sdm(state charged flint water contamination) #sdm(department lead water contamination scandal) #sdm(charged contaminating flint water) #sdm(attorney general mi) ) #combine (#sdm(dq regulator) #sdm(adam rosenthal charge flint water) #sdm(adam rosenthal charged) #sdm(charged felony willful neglect) #sdm(charged mishandling flint ok) ) )"
+        },
+        {
+            "number": "DR-T4-r2",
+            "text": "#combine:( #combine (#sdm(water contaminated flint michigan) #sdm(year flint water come surface) #sdm(long water flint corrosive) #sdm(flint water pollution complaint) #sdm(epa preparing class action complaint flint michigan) ) #combine (#sdm(lead poisoning located michigan) #sdm(administrator epa michigan) #sdm(epa regional administrator) #sdm(reason epa helm lead contamination) #sdm(effect lead poisoning michigan) ) )"
+        },
+        {
+            "number": "DR-T4-r3",
+            "text": "#combine:( #combine (#sdm(lead scandal) #sdm(flooded water bad drinking) #sdm(many people charged lead poisoning flint michigan) #sdm(charged flint waters scandal michigan) #sdm(state flint water contaminated) ) #combine (#sdm(flint prosecutors) #sdm(company flint water regulator charged) #sdm(person flint water regulator) #sdm(responsible flint water pollution scandal) #sdm(flint dept water quality) ) )"
+        },
+        {
+            "number": "DR-T4-r4",
+            "text": "#combine:( #combine (#sdm(flint water) #sdm(charge flint water department) #sdm(department responsible flint water contamination) #sdm(flint water crisis) #sdm(charged flint mi water scandal) ) #combine (#sdm(lead regulator flint) #sdm(lead regulator flint wyoming) #sdm(flint accused) #sdm(officials charged lead leak scandal) ) )"
+        },
+        {
+            "number": "DR-T4-r5",
+            "text": "#combine:( #combine (#sdm(liane smith fired) #sdm(fired flint water company) #sdm(fired failing control lead flint) #sdm(fired michigan water regulator) #sdm(fired water problem city flint) ) #combine (#sdm(oversaw epa michigan) #sdm(oversaw epa) #sdm(agency responsible flint) #sdm(epa) #sdm(director epa michigan) ) )"
+        },
+        {
+            "number": "DR-T4-r6",
+            "text": "#combine:( #combine (#sdm(flint water bad) #sdm(flooded water stop flowing) #sdm(kind water flint water supply) #sdm(flint water problem) #sdm(epa responsible flint water) ) #combine (#sdm(michigan epa resign) #sdm(much lead water michigan) #sdm(lead poisoning michigan) #sdm(epa water crisis definition) #sdm(epa take responsibility water pollution michigan) ) )"
+        },
+        {
+            "number": "DR-T4-r7",
+            "text": "#combine:( #combine (#sdm(flint kind poisoning) #sdm(flint dangerous) #sdm(epa say lead toxic) #sdm(president visited flint michigan) #sdm(state washington state lead found water) ) #combine (#sdm(issue water crisis flint) #sdm(flint crisis occur) #sdm(president flint flooded) #sdm(obama declare water crisis disaster presidential debate) #sdm(pushed flint crisis) ) )"
+        },
+        {
+            "number": "DR-T5-r1",
+            "text": "#combine:( #combine (#sdm(banks publish balance sheets) #sdm(type organization vatican bank) #sdm(vatican release balance sheets) #sdm(vatican bank balance sheets published) #sdm(vatican start online banking) ) )"
+        },
+        {
+            "number": "DR-T5-r2",
+            "text": "#combine:( #combine (#sdm(president vatican bank) #sdm(vatican bank investigation good sign) #sdm(vatican bank tapped) #sdm(vatican bank investigated) ) #combine (#sdm(vatican bank much money) #sdm(name vatican bank) #sdm(much money vatican bank take) #sdm(vatican bank get lawsuit) #sdm(vatican bank funded) ) #combine (#sdm(vatican bank subject strict anti money laundering laws) #sdm(vatican bank major money laundering organization italy) #sdm(vatican bank target money laundering) #sdm(vatican bank) #sdm(italian vatican bank money laundering organization) ) )"
+        },
+        {
+            "number": "DR-T5-r3",
+            "text": "#combine:( #combine (#sdm(kind bank vatican) #sdm(name vatican bank) #sdm(head vatican bank) #sdm(vatican) #sdm(moneyval established) ) )"
+        },
+        {
+            "number": "DR-T5-r4",
+            "text": "#combine:( #combine (#sdm(vatican involved money laundering) #sdm(many accounts vatican) #sdm(moneyval) #sdm(money laundered vatican world) #sdm(heads moneyval report) ) )"
+        },
+        {
+            "number": "DR-T5-r5",
+            "text": "#combine:( #combine (#sdm(president vatican) #sdm(vatican bank publish balance sheets online) #sdm(vatican banks start publish balance sheets) #sdm(vatican bank) #sdm(vatican bank publish balance sheets) ) )"
+        },
+        {
+            "number": "DR-T5-r6",
+            "text": "#combine:( #combine (#sdm(authority responsible investigating vatican banks) #sdm(vatican finance watchdog) #sdm(moneyval) #sdm(prosecutor vatican bank corruption) ) #combine (#sdm(financial institution vatican listed white list) #sdm(vatican bank closed) #sdm(vatican bank ior) #sdm(financial institution crisis) ) )"
+        },
+        {
+            "number": "DR-T6-r1",
+            "text": "#combine:( #combine (#sdm(north korean leader talks) #sdm(met kim jong un north korea) #sdm(met president south korean leader) #sdm(kim kim talk summit) #sdm(secretary state united states) ) )"
+        },
+        {
+            "number": "DR-T6-r2",
+            "text": "#combine:( #combine (#sdm(north korean leader) #sdm(leader korea) #sdm(north koreans) #sdm(kim policy) #sdm(kim jong un envoy korea) ) #combine (#sdm(trump accomplish panmunjom summit) #sdm(trump korean summit) #sdm(trump administration denuclearizing north korea) #sdm(kim jong un trump) #sdm(significance trump kim) ) #combine (#sdm(trump need denuclearize north korea) #sdm(united states north korea) #sdm(kim jong un talks) #sdm(trump need give north korea denuclearization package) #sdm(goal north korean nuclear deal) ) #combine (#sdm(talks held trump) #sdm(started panmunjom talks) #sdm(korean talks start) #sdm(talks started cold war) #sdm(outcome trump summit panamunjom) ) )"
+        },
+        {
+            "number": "DR-T6-r3",
+            "text": "#combine:( #combine (#sdm(trump say look) #sdm(trump foreign advisor) #sdm(north korea pull) #sdm(said see agree north korean meeting) #sdm(said see pyongyang pulls summits trump) ) #combine (#sdm(preconditions north korea) #sdm(north reluctant denuclearize korea) #sdm(north denuclearize korea ny) #sdm(president john ping want summit) #sdm(north korea nuclear) ) #combine (#sdm(pushed pyongyang   china) #sdm(max thunder) #sdm(max thunder drill many planes) #sdm(max thunder conducted) #sdm(kind policy us put north korea) ) )"
+        },
+        {
+            "number": "DR-T6-r4",
+            "text": "#combine:( #combine (#sdm(trump call north korea talks jeopardy) #sdm(said notified north korean talks) #sdm(said us would ready discuss north korea) #sdm(said koeping talks ended) #sdm(trump contacted north korea talks cancelled) ) #combine (#sdm(trump walk meeting north korea) #sdm(leaders north korea) #sdm(said us prepared walk away summit north korea) #sdm(trump said talks) #sdm(trump say north korea) ) #combine (#sdm(reporter cnn) #sdm(beth klein cnn) #sdm(writer cnn) #sdm(reporters cnn) #sdm(serenitie wang) ) )"
+        },
+        {
+            "number": "DR-T6-r5",
+            "text": "#combine:( #combine (#sdm(max thunder korea) #sdm(russian max thunder) #sdm(kind plane max thunder) #sdm(kcna max thunder military exercises) #sdm(max thunder exercise) ) )"
+        },
+        {
+            "number": "DR-T7-r1",
+            "text": "#combine:( #combine (#sdm(bought topaz solar) #sdm(bought topaz solar farm) #sdm(topaz solar) #sdm(owns topaz solar power plant) #sdm(solar farms open california) ) #combine (#sdm(third richest man) #sdm(berkshire hathaway owned) #sdm(owns ibm stock) #sdm(third richest man world) #sdm(ibm stock worth) ) )"
+        },
+        {
+            "number": "DR-T7-r2",
+            "text": "#combine:( #combine (#sdm(cities make use solar power) #sdm(city solar power) #sdm(new york cities solar energy) #sdm(said solar energy would make nys safer) #sdm(ny build solar power plant) ) #combine (#sdm(solar ombudsman) #sdm(created map new york city solar panels) #sdm(purpose cuny solar ombudsman) #sdm(much energy new york city using) #sdm(cuny solar ombudsman works) ) #combine (#sdm(cutaia) #sdm(solar energy systems) #sdm(type energy system new york solar panel system) #sdm(long take approve solar panels new york) ) #combine (#sdm(edison use solar) #sdm(john mucci con edison) #sdm(con edison use solar panels) #sdm(john mucci) ) )"
+        },
+        {
+            "number": "DR-T7-r3",
+            "text": "#combine:( #combine (#sdm(much cost produce solar panels) #sdm(average cost solar power) #sdm(nevada solar power price) #sdm(cost power solar cell) #sdm(costs produce solar cells) ) #combine (#sdm(solar energy used electricity) #sdm(solar thermal power) #sdm(use solar thermal) #sdm(solar plants produce electricity) #sdm(kind energy used heat solar system) ) #combine (#sdm(energy storage best solar power) #sdm(use mechanical power heat) #sdm(solar energy systems important) #sdm(solar energy needed world) #sdm(advantage solar energy) ) )"
+        },
+        {
+            "number": "DR-T7-r4",
+            "text": "#combine:( #combine (#sdm(solar company solyndra file bankruptcy) #sdm(solar panels cost expensive) #sdm(price solar panels) #sdm(solar energy created) #sdm(solyndra go bankrupt) ) #combine (#sdm(pv technology require silicon) #sdm(silicon problem) #sdm(leading solar company us) #sdm(silicon used create pv panels) #sdm(silicon solar panel) ) #combine (#sdm(solar longer competitive) #sdm(solar) #sdm(solar really exist) #sdm(solar longer competitive solar market) ) )"
+        }
+    ]
+}
